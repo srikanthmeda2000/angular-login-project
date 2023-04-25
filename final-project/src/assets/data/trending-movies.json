@@ -1,0 +1,127 @@
+[
+    {
+        "id":1,
+        "name": " Romancham",
+        "cover": "assets/image/trending.png",
+        "rating":3.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":3.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":3.5
+            }
+
+        ]
+    },
+    {
+        "id":2,
+        "name": "Pathaan",
+        "cover": "assets/image/trending1.png",
+        "rating":2.5,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":2.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":2.5
+            }
+
+        ]
+    },
+    {
+        "id":3,
+        "name": "Ayothi",
+        "cover": "assets/image/trending2.png",
+        "rating":4.5,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },{
+        "id":4,
+        "name": "Sir",
+        "cover": "assets/image/trending3.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":5,
+        "name": " Waltair Veerayya",
+        "cover": "assets/image/trending4.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":6,
+        "name": "Pathaan",
+        "cover": "assets/image/trending5.png",
+        "rating":4,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    }
+]

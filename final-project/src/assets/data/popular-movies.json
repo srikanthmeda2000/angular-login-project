@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "name": " the dark knight",
+        "cover": "",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":2,
+        "name": " the dark knight",
+        "cover": "",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":3,
+        "name": " the dark knight",
+        "cover": "",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },{
+        "id":2,
+        "name": " the dark knight",
+        "cover": "",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":3,
+        "name": " the dark knight",
+        "cover": "",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    }
+]

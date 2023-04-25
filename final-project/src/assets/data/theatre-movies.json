@@ -1,0 +1,127 @@
+[
+    {
+        "id":1,
+        "name": "mca",
+        "cover": "assets/image/theatre5.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":2,
+        "name": "hart attack",
+        "cover": "assets/image/theatre4.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":3,
+        "name": "world famous",
+        "cover": "assets/image/theatre3.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },{
+        "id":4,
+        "name": "twin",
+        "cover": "assets/image/theatre2.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":5,
+        "name": "black adam",
+        "cover": "assets/image/theatre1.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    },
+    {
+        "id":6,
+        "name": " dasara",
+        "cover": "assets/image/theatre.png",
+        "rating":4.25,
+        "reviews":[
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            },
+            {
+                "author": "srikanth",
+                "published_on":"2021-11-18",
+                 "review":"awesome move!",
+                 "rating":4.5
+            }
+
+        ]
+    }
+]
